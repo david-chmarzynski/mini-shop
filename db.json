@@ -18,18 +18,9 @@
     {
       "id": 1,
       "products": [
-        {
-          "productId": 1,
-          "quantity": 2
-        },
-        {
-          "productId": 2,
-          "quantity": 1
-        },
-        {
-          "productId": 3,
-          "quantity": 12
-        }
+        { "id": 1, "label": "Milk", "price": 3.40, "description": "Pretty good milk", "image": "assets/products/Milk.png", "quantity": 1 },
+        { "id": 2, "label": "Orange juice", "price": 2.50, "description": "Pretty good orange juice", "image": "assets/products/orangeJuice.png", "quantity": 2 },
+        { "id": 3, "label": "Aloe Verra", "price": 4.00, "description": "Pretty good aloe vera", "image": "assets/products/AloeVerra.png", "quantity": 1 }
       ]
     }
   ]
