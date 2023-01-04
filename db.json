@@ -9,7 +9,7 @@
     { "id": 2, "label": "Orange juice", "price": 2.50, "description": "Pretty good orange juice", "image": "assets/products/orangeJuice.png" },
     { "id": 3, "label": "Aloe Verra", "price": 4.00, "description": "Pretty good aloe vera", "image": "assets/products/AloeVerra.png" }
   ],
-  "payementMethod": [
+  "paymentMethod": [
     { "id": 1, "userId": 1, "balance": 200, "is_active": true },
     { "id": 2, "userId": 2, "balance": 0, "is_active": false },
     { "id": 3, "userId": 1, "balance": 300, "is_active": true }
