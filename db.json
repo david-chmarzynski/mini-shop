@@ -10,9 +10,9 @@
     { "id": 3, "label": "Aloe Verra", "price": 4.00, "description": "Pretty good aloe vera", "image": "assets/products/AloeVerra.png" }
   ],
   "paymentMethod": [
-    { "id": 1, "userId": 1, "balance": 200, "is_active": true },
-    { "id": 2, "userId": 2, "balance": 0, "is_active": false },
-    { "id": 3, "userId": 1, "balance": 300, "is_active": true }
+    { "id": 1, "userId": 1, "balance": 200, "isActive": true },
+    { "id": 2, "userId": 2, "balance": 0, "isActive": false },
+    { "id": 3, "userId": 1, "balance": 300, "isActive": true }
   ],
   "cart": [
     {
